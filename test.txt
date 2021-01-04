@@ -1,0 +1,2 @@
+This is a new file created with VI, on the command line from GIT
+
